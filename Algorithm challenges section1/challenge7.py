@@ -1,0 +1,6 @@
+x1 = float(input("Enter number 1\n>> "))
+x2 = float(input("Enter number 2\n>> "))
+print(f"Multiply\n{x1*x2}")
+print(f"Divide\n{x1/x2}")
+print(f"addition\n{x1+x2}")
+print(f"subtract\n{x1-x2}")

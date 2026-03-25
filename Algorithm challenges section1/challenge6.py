@@ -1,0 +1,5 @@
+name = input("name\n>> ")
+birth_date = input("birth year\n>> ")
+current_date = input("current year\n>> ")
+tutor_group = input("Tutor group \n>> ")
+print(name,(current_date-birth_date),tutor_group)
